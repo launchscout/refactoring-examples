@@ -1,0 +1,16 @@
+{
+  "name": "refactoring-example",
+  "version": "1.0.0",
+  "description": "Worked refactoring example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js",
+    "test:watch": "mocha --watch *.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
